@@ -1,0 +1,151 @@
+[
+  {
+    "recipe_id": "101",
+    "recipe_name": "Grilled Chicken with Basil",
+    "recipe_image": "https://example.com/images/grilled-chicken.jpg",
+    "short_description": "Juicy grilled chicken seasoned with fresh basil and spices.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushroom"
+    ],
+    "preparing_time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "recipe_id": "102",
+    "recipe_name": "Spaghetti Bolognese",
+    "recipe_image": "https://example.com/images/spaghetti-bolognese.jpg",
+    "short_description": "Classic Italian pasta dish with a rich meat sauce.",
+    "ingredients": [
+      "500 g spaghetti",
+      "300 g minced beef",
+      "200 g tomato puree",
+      "100 g onion",
+      "50 g Parmesan cheese"
+    ],
+    "preparing_time": "45 min",
+    "calories": "450 calories"
+  },
+  {
+    "recipe_id": "103",
+    "recipe_name": "Vegetable Stir Fry",
+    "recipe_image": "https://example.com/images/vegetable-stir-fry.jpg",
+    "short_description": "Quick and healthy stir-fried vegetables in a light soy sauce glaze.",
+    "ingredients": [
+      "200 g broccoli",
+      "150 g carrot",
+      "100 g bell peppers",
+      "50 ml soy sauce",
+      "20 ml sesame oil"
+    ],
+    "preparing_time": "20 min",
+    "calories": "200 calories"
+  },
+  {
+    "recipe_id": "104",
+    "recipe_name": "Beef Tacos",
+    "recipe_image": "https://example.com/images/beef-tacos.jpg",
+    "short_description": "Tacos filled with spiced beef and fresh toppings.",
+    "ingredients": [
+      "400 g ground beef",
+      "200 g tortilla shells",
+      "100 g lettuce",
+      "50 g cheddar cheese",
+      "100 g salsa"
+    ],
+    "preparing_time": "25 min",
+    "calories": "350 calories"
+  },
+  {
+    "recipe_id": "105",
+    "recipe_name": "Chicken Caesar Salad",
+    "recipe_image": "https://example.com/images/caesar-salad.jpg",
+    "short_description": "A refreshing salad with grilled chicken and Caesar dressing.",
+    "ingredients": [
+      "300 g romaine lettuce",
+      "150 g grilled chicken",
+      "50 g croutons",
+      "30 g Parmesan cheese",
+      "50 ml Caesar dressing"
+    ],
+    "preparing_time": "15 min",
+    "calories": "270 calories"
+  },
+  {
+    "recipe_id": "106",
+    "recipe_name": "Tomato Basil Soup",
+    "recipe_image": "https://example.com/images/tomato-basil-soup.jpg",
+    "short_description": "A creamy and comforting tomato soup with fresh basil.",
+    "ingredients": [
+      "500 g tomatoes",
+      "100 g onion",
+      "50 g basil leaves",
+      "200 ml cream",
+      "30 ml olive oil"
+    ],
+    "preparing_time": "40 min",
+    "calories": "220 calories"
+  },
+  {
+    "recipe_id": "107",
+    "recipe_name": "Margherita Pizza",
+    "recipe_image": "https://example.com/images/margherita-pizza.jpg",
+    "short_description": "Classic pizza topped with tomato sauce, mozzarella, and fresh basil.",
+    "ingredients": [
+      "300 g pizza dough",
+      "200 g tomato sauce",
+      "150 g mozzarella cheese",
+      "20 g fresh basil",
+      "10 ml olive oil"
+    ],
+    "preparing_time": "30 min",
+    "calories": "300 calories"
+  },
+  {
+    "recipe_id": "108",
+    "recipe_name": "Avocado Toast",
+    "recipe_image": "https://example.com/images/avocado-toast.jpg",
+    "short_description": "Simple and delicious avocado spread on toasted bread.",
+    "ingredients": [
+      "2 slices of bread",
+      "150 g avocado",
+      "10 ml lemon juice",
+      "5 g chili flakes",
+      "10 g olive oil"
+    ],
+    "preparing_time": "10 min",
+    "calories": "180 calories"
+  },
+  {
+    "recipe_id": "109",
+    "recipe_name": "Pancakes with Syrup",
+    "recipe_image": "https://example.com/images/pancakes.jpg",
+    "short_description": "Fluffy pancakes served with maple syrup.",
+    "ingredients": [
+      "200 g flour",
+      "150 ml milk",
+      "1 egg",
+      "10 g baking powder",
+      "50 ml maple syrup"
+    ],
+    "preparing_time": "20 min",
+    "calories": "250 calories"
+  },
+  {
+    "recipe_id": "110",
+    "recipe_name": "Garlic Butter Shrimp",
+    "recipe_image": "https://example.com/images/garlic-shrimp.jpg",
+    "short_description": "Succulent shrimp cooked in garlic butter sauce.",
+    "ingredients": [
+      "400 g shrimp",
+      "50 g butter",
+      "30 g garlic",
+      "10 g parsley",
+      "10 ml lemon juice"
+    ],
+    "preparing_time": "15 min",
+    "calories": "280 calories"
+  }
+]
