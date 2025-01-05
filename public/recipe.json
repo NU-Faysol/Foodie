@@ -2,7 +2,7 @@
   {
     "recipe_id": "101",
     "recipe_name": "Grilled Chicken with Basil",
-    "recipe_image": "https://example.com/images/grilled-chicken.jpg",
+    "recipe_image": "https://i.ibb.co.com/5FnRMww/pexels-alesiakozik-6546429.jpg",
     "short_description": "Juicy grilled chicken seasoned with fresh basil and spices.",
     "ingredients": [
       "550 g chicken",
@@ -16,8 +16,8 @@
   {
     "recipe_id": "102",
     "recipe_name": "Spaghetti Bolognese",
-    "recipe_image": "https://example.com/images/spaghetti-bolognese.jpg",
-    "short_description": "Classic Italian pasta dish with a rich meat sauce.",
+    "recipe_image": "https://i.ibb.co.com/2ySrB37/pexels-andres-alaniz-461433202-29826105.jpg",
+    "short_description": "Classic Italian burger dish with a rich meat sauce.",
     "ingredients": [
       "500 g spaghetti",
       "300 g minced beef",
@@ -31,7 +31,7 @@
   {
     "recipe_id": "103",
     "recipe_name": "Vegetable Stir Fry",
-    "recipe_image": "https://example.com/images/vegetable-stir-fry.jpg",
+    "recipe_image": "https://i.ibb.co.com/CBJBQv6/pexels-ella-olsson-572949-1640773.jpg",
     "short_description": "Quick and healthy stir-fried vegetables in a light soy sauce glaze.",
     "ingredients": [
       "200 g broccoli",
@@ -45,11 +45,11 @@
   },
   {
     "recipe_id": "104",
-    "recipe_name": "Beef Tacos",
-    "recipe_image": "https://example.com/images/beef-tacos.jpg",
-    "short_description": "Tacos filled with spiced beef and fresh toppings.",
+    "recipe_name": "Dark Cake",
+    "recipe_image": "https://i.ibb.co.com/5WQ5YgH/pexels-ella-olsson-572949-3026804.jpg",
+    "short_description": "Tacos filled with spiced chocolates and fresh stawbery.",
     "ingredients": [
-      "400 g ground beef",
+      "400 g ground chocolates",
       "200 g tortilla shells",
       "100 g lettuce",
       "50 g cheddar cheese",
@@ -61,7 +61,7 @@
   {
     "recipe_id": "105",
     "recipe_name": "Chicken Caesar Salad",
-    "recipe_image": "https://example.com/images/caesar-salad.jpg",
+    "recipe_image": "https://i.ibb.co.com/yynbJqY/pexels-ivandesignx-29887688.jpg",
     "short_description": "A refreshing salad with grilled chicken and Caesar dressing.",
     "ingredients": [
       "300 g romaine lettuce",
@@ -75,8 +75,8 @@
   },
   {
     "recipe_id": "106",
-    "recipe_name": "Tomato Basil Soup",
-    "recipe_image": "https://example.com/images/tomato-basil-soup.jpg",
+    "recipe_name": "Tomato Basil Rice",
+    "recipe_image": "https://i.ibb.co.com/JFRRzjh/pexels-lum3n-44775-1410235.jpg",
     "short_description": "A creamy and comforting tomato soup with fresh basil.",
     "ingredients": [
       "500 g tomatoes",
@@ -89,9 +89,24 @@
     "calories": "220 calories"
   },
   {
+    "recipe_id": "108",
+    "recipe_name": "Avocado Toast",
+    "recipe_image": "https://i.ibb.co.com/7k2KvNB/pexels-renestrgar-28749171.jpg",
+    "short_description": "Simple and delicious avocado spread on toasted beef.",
+    "ingredients": [
+      "2 slices of beef",
+      "150 g avocado",
+      "10 ml lemon juice",
+      "5 g chili flakes",
+      "10 g olive oil"
+    ],
+    "preparing_time": "10 min",
+    "calories": "180 calories"
+  },
+  {
     "recipe_id": "107",
     "recipe_name": "Margherita Pizza",
-    "recipe_image": "https://example.com/images/margherita-pizza.jpg",
+    "recipe_image": "https://i.ibb.co.com/54xtBJ4/pexels-monty-29882835.jpg",
     "short_description": "Classic pizza topped with tomato sauce, mozzarella, and fresh basil.",
     "ingredients": [
       "300 g pizza dough",
@@ -104,25 +119,10 @@
     "calories": "300 calories"
   },
   {
-    "recipe_id": "108",
-    "recipe_name": "Avocado Toast",
-    "recipe_image": "https://example.com/images/avocado-toast.jpg",
-    "short_description": "Simple and delicious avocado spread on toasted bread.",
-    "ingredients": [
-      "2 slices of bread",
-      "150 g avocado",
-      "10 ml lemon juice",
-      "5 g chili flakes",
-      "10 g olive oil"
-    ],
-    "preparing_time": "10 min",
-    "calories": "180 calories"
-  },
-  {
     "recipe_id": "109",
-    "recipe_name": "Pancakes with Syrup",
-    "recipe_image": "https://example.com/images/pancakes.jpg",
-    "short_description": "Fluffy pancakes served with maple syrup.",
+    "recipe_name": "Pancakes with Syrup noddles",
+    "recipe_image": "https://i.ibb.co.com/S7k3M99/pexels-tonyleong81-2092906.jpg",
+    "short_description": "Fluffy pancakes served with maple syrup noddles.",
     "ingredients": [
       "200 g flour",
       "150 ml milk",
@@ -136,7 +136,7 @@
   {
     "recipe_id": "110",
     "recipe_name": "Garlic Butter Shrimp",
-    "recipe_image": "https://example.com/images/garlic-shrimp.jpg",
+    "recipe_image": "https://i.ibb.co.com/7brk8Q9/pexels-valeriya-29843070.jpg",
     "short_description": "Succulent shrimp cooked in garlic butter sauce.",
     "ingredients": [
       "400 g shrimp",
